@@ -1,2 +1,2 @@
-# js-dev-env
+# DevEnv-JS
 JavaScript Development Environment
